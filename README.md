@@ -1,0 +1,2 @@
+# worldcup-generator
+Worldcup Generator
